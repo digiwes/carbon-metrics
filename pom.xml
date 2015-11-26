@@ -445,7 +445,7 @@
         <commons.logging.version>1.2</commons.logging.version>
         <axis2.wso2.version>1.6.1-wso2v15</axis2.wso2.version>
         <axis2.wso2.version.range>[1.6.0, 1.7.0)</axis2.wso2.version.range>
-        <wsdl4j.wso2.version>1.6.2.wso2v4</wsdl4j.wso2.version>
+        <wsdl4j.wso2.version>1.6.2.wso2v2</wsdl4j.wso2.version>
         <xmlschema.wso2.version>1.4.7.wso2v3</xmlschema.wso2.version>
         <axiom.wso2.version>1.2.11.wso2v9</axiom.wso2.version>
         <neethi.wso2.version>2.0.4.wso2v4</neethi.wso2.version>
